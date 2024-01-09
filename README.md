@@ -1,4 +1,4 @@
-# Parallax-Scroll-Animation
+# Parallax-Scroll-Animation | Jerson Mejía
 
 I will to use modern HTML, CSS, and JavaScript to create a completely responsive Parallax Scroll animation. We'll be using CSS transitions and animations for some cool animation effects.
 
